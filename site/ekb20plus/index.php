@@ -40,7 +40,7 @@ echo "<p>\n";
 
 /* ассоциативный массив */
 while ($row = $result->fetch_array(MYSQLI_ASSOC)){
-    printf ("{\"id\": %s, \"ssc_name\": \"%s\"}, \"levels\": %s}<br />\n", $row["id"], $row["ssc_name"], $row["levels"]);
+    printf ("{\"id\": %s, \"ssc_name\": \"%s\", \"levels\": %s}<br />\n", $row["id"], $row["ssc_name"], $row["levels"]);
 }
 
 echo "</p>\n";
