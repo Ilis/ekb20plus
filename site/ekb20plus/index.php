@@ -6,9 +6,9 @@ ini_set('display_errors', 1);
 <!DOCTYPE html >
 <html lang="ru">
 <head>
-<title>Ilis — welcome</title>
-    <meta name="Description" content="000webhost explore" />
-    <meta name="Keywords" content="Ilis, Deore, test" />
+<title>Ekb 20+</title>
+    <meta name="Description" content="Ekaterinburg 20+" />
+    <meta name="Keywords" content="Ekaterinburg, SSC" />
     <meta name="Author" content="Ilis" />
 </head>
 <body>
